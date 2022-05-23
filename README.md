@@ -12,5 +12,5 @@
 | Paper      | 
 | :---        | 
 | [Health insurance and mortality: Experimental evidence from taxpayer outreach](https://www.nber.org/system/files/working_papers/w26533/w26533.pdf) |
-
-
+| [Neighborhood Attention Transformer](https://arxiv.org/abs/2204.07143) |
+| [An Attention Free Transformer](https://arxiv.org/abs/2105.14103) |
