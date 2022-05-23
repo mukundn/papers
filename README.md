@@ -1,4 +1,4 @@
-# papers
+# Table of Contents
 
 | Paper      | Date | Summary     |
 | :---        |    :----:   |          :--- |
