@@ -19,7 +19,8 @@
 | [LSNet: Extremely Light-Weight Siamese Network For Change Detection in Remote Sensing Image](https://arxiv.org/abs/2201.09156) |
 | [Differentiable biology](https://www.nature.com/articles/s41592-021-01283-4.epdf?sharing_token=k3FmOjeRfA1kt6ieN_NM-dRgN0jAjWel9jnR3ZoTv0PGc4ib4wJTZfCWPQ1ewG8CPNnO1FdftgU-wqjGoktWgHbQMI8RNioWBcXbOdCzMGcUIb3pJIAxy0TXBOMY284_ZFVO4nUJiKefa6apbwNn_XG1AlfQP6SFjSQIIRcU05o%3D) |
 | [Identifying best interventions through online importance sampling](http://proceedings.mlr.press/v70/sen17a/sen17a.pdf) |
-
+| [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/abs/2205.04507) |
+| [TrueSkill: A Bayesian Skill Rating System](https://proceedings.neurips.cc/paper/2006/file/f44ee263952e65b3610b8ba51229d1f9-Paper.pdf) |
 
 
 | Article |
@@ -34,4 +35,13 @@
 | [Statistical Rethinking - Course (2022)](https://github.com/rmcelreath/stat_rethinking_2022) |
 | [Variance Reduction - Importance Sampling Notes](http://www.columbia.edu/~mh2078/MonteCarlo/MCS_Var_Red_Advanced.pdf) |
 | [Exp-normalize trick](https://timvieira.github.io/blog/post/2014/02/11/exp-normalize-trick/) |
+| [Compositionality of DALL-E](https://fh295.github.io/noncompositional.html) |
+| [Attacks from nation state actors](https://www.microsoft.com/en-us/security/business/nation-state-attacks?) |
+
+
+
+| Book |
+| :--- |
+| [Simulation and the Monte Carlo Way](http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/308_03_Rubinstein_Simulation-and-the-Monte-Carlo-Method-Wiley-2017.pdf) |
+| [Statistical Rethinking](https://learning.oreilly.com/library/view/statistical-rethinking/9781482253481/xhtml/08_Chapter01.xhtml#sec1_1) |
 
