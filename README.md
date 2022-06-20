@@ -33,11 +33,13 @@
 | [Trueskill / Stochastic VI](https://probmlcourse.github.io/sta414/lectures/week_10/) |
 | [PyMC Regression Discontinuity](https://docs.pymc.io/projects/examples/en/latest/case_studies/regression_discontinuity.html) |
 | [Statistical Rethinking - Course (2022)](https://github.com/rmcelreath/stat_rethinking_2022) |
+| [Statistical Rethinking - Tensorflow translation](https://ksachdeva.github.io/rethinking-tensorflow-probability/README.html) |
 | [Variance Reduction - Importance Sampling Notes](http://www.columbia.edu/~mh2078/MonteCarlo/MCS_Var_Red_Advanced.pdf) |
 | [Exp-normalize trick](https://timvieira.github.io/blog/post/2014/02/11/exp-normalize-trick/) |
 | [Compositionality of DALL-E](https://fh295.github.io/noncompositional.html) |
 | [Attacks from nation state actors](https://www.microsoft.com/en-us/security/business/nation-state-attacks?) |
-
+| [A Framework for Document Processing Solutions](https://ljvmiranda921.github.io/notebook/2022/06/19/document-processing-framework/) |
+| [Pandas UDF for Spark](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html) |
 
 
 | Book |
