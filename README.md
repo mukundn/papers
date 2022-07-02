@@ -40,6 +40,13 @@
 | [Attacks from nation state actors](https://www.microsoft.com/en-us/security/business/nation-state-attacks?) |
 | [A Framework for Document Processing Solutions](https://ljvmiranda921.github.io/notebook/2022/06/19/document-processing-framework/) |
 | [Pandas UDF for Spark](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html) |
+| [Pen and Paper exercises for ML](https://arxiv.org/abs/2206.13446) |
+| [Healthcare transparency data regulations](https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/) |
+| [How Imagen works](https://www.assemblyai.com/blog/how-imagen-actually-works/) |
+| [Yubikey manager download](https://www.yubico.com/support/download/yubikey-manager/#h-downloads) |
+| [Making sense of the Legendre transform](https://arxiv.org/abs/0806.1147) |
+| [Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4) |
+
 
 
 | Book |
