@@ -21,7 +21,10 @@
 | [Identifying best interventions through online importance sampling](http://proceedings.mlr.press/v70/sen17a/sen17a.pdf) |
 | [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/abs/2205.04507) |
 | [TrueSkill: A Bayesian Skill Rating System](https://proceedings.neurips.cc/paper/2006/file/f44ee263952e65b3610b8ba51229d1f9-Paper.pdf) |
-
+| [Einops](https://github.com/arogozhnikov/einops) |
+| [Prioriting points that are learnable, worth learning but not learnt yet](https://arxiv.org/abs/2206.07137) |
+| [Artificial Neural Networks for Solving Ordinary and Partial Differential Equations /  Lagaris et al](https://arxiv.org/abs/physics/9705023) |
+| [ Physics-informed neural networks / M.Raissia et al](https://www.sciencedirect.com/science/article/pii/S0021999118307125) |
 
 | Article |
 | :---    |
