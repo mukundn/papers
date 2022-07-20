@@ -49,6 +49,7 @@
 | [Yubikey manager download](https://www.yubico.com/support/download/yubikey-manager/#h-downloads) |
 | [Making sense of the Legendre transform](https://arxiv.org/abs/0806.1147) |
 | [Simplifying S4](https://hazyresearch.stanford.edu/blog/2022-06-11-simplifying-s4) |
+| [Introduction to Information Geometry](file:///Users/mukund_narasimhan/Downloads/PrintIntroductionInformationGeometry-FrankNielsen.pd) |
 
 
 
@@ -56,4 +57,14 @@
 | :--- |
 | [Simulation and the Monte Carlo Way](http://www.ru.ac.bd/wp-content/uploads/sites/25/2019/03/308_03_Rubinstein_Simulation-and-the-Monte-Carlo-Method-Wiley-2017.pdf) |
 | [Statistical Rethinking](https://learning.oreilly.com/library/view/statistical-rethinking/9781482253481/xhtml/08_Chapter01.xhtml#sec1_1) |
+
+| Courses |
+| :---    |
+| [Stanford CS 25: Transformers](https://web.stanford.edu/class/cs25/) |
+
+
+| Misc |
+| :--- |
+| [Guest WiFi w/ QR code](https://blog.jgc.org/2022/07/guest-wifi-using-qr-code.html) |
+
 
